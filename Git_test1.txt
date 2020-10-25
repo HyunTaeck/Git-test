@@ -2,3 +2,5 @@ git test
 git test
 
 test2
+
+ATOM에서 SourceTree 확인
